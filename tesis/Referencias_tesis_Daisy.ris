@@ -1,0 +1,886 @@
+TY  - THES
+TI  - Modelo de predictivo de estilos de aprendizaje y rendimiento académico en estudiantes recién admitidos a la Universidad Nacional del Altiplano 2023-I
+PY  - 2025
+AU  - Mendoza Mollocondo, Charles Ignacio
+PB  - Universidad Nacional del Altiplano, Perú
+T2  - Doctorado en Estadística Aplicada
+UR  - https://repositorio.unap.edu.pe/handle/20.500.14082/25620
+KW  - aprendizaje automático
+KW  - análisis multivariado
+KW  - estudiante universitario
+KW  - modelo predictivo
+KW  - rendimiento académico
+N2  - Estudio desarrollado en la propia UNA Puno que formula un modelo predictivo del rendimiento en estudiantes recién admitidos, integrando variables cognitivas y factores sociodemográficos y comparando métodos estadísticos con machine learning.
+ER  -
+TY  - JOUR
+TI  - Modelo Basado en Deep Learning para predecir el ingreso de estudiantes a la Universidad Nacional del Altiplano
+PY  - 2025
+AU  - Mestas Yucra, Edwin Edgar
+AU  - Bobadilla Quispe, María
+AU  - Quisocala Lipa, Mario Milton
+AU  - Sanchez Mamani, Ivan Grover
+AU  - Sardón Huayapa, Julio Cesar
+JF  - Technology Rain Journal
+VL  - 4
+IS  - 2
+SP  - e107
+DO  - 10.55204/trj.v4i2.e107
+M3  - Versión derivada de la tesis de maestría UNAP 2024
+UR  - https://technologyrain.com.ar/index.php/trj/article/view/107
+KW  - aprendizaje profundo
+KW  - aprendizaje no supervisado
+KW  - agrupamiento
+KW  - predicción
+KW  - rendimiento académico
+N2  - Desarrolla un modelo predictivo educativo vinculado a la UNA Puno. Emplea información de rendimiento previo y agrupamiento para anticipar el ingreso universitario, aportando un antecedente tecnológico local, aunque el desenlace es admisión y no riesgo académico dentro de la universidad.
+ER  -
+TY  - THES
+TI  - Modelo predictivo para la pobreza en la región de Puno mediante machine learning - 2023
+PY  - 2025
+AU  - Mayta Aroquipa, Wilber Milton
+PB  - Universidad Nacional del Altiplano, Perú
+T2  - Tesis de maestría en Informática
+UR  - https://repositorio.unap.edu.pe/items/ff0f0a43-5cd7-4bac-998a-ff546881dbd0
+KW  - pobreza
+KW  - machine learning
+KW  - ENAHO
+KW  - Random Forest
+KW  - LightGBM
+KW  - Puno
+N2  - Modela pobreza en hogares de la región Puno a partir de variables socioeconómicas de ENAHO. Aunque el desenlace no es académico, es altamente útil para la construcción conceptual de vulnerabilidad y para identificar variables territoriales, de vivienda, composición e ingreso con capacidad predictiva.
+ER  -
+TY  - THES
+TI  - Factores relacionados al rendimiento académico en estudiantes del I.S.T.P. Nazaret, Juliaca 2016
+PY  - 2019
+AU  - Jordan Romero, Naddya Valentine
+PB  - Universidad Andina Néstor Cáceres Velásquez, Perú
+T2  - Tesis de maestría
+UR  - https://alicia.concytec.gob.pe/vufind/index.php/Record/UANT_f412a42da62eb27c7065b56def3496da
+KW  - factores sociales
+KW  - factores económicos
+KW  - anemia
+KW  - rendimiento académico
+N2  - Analiza conjuntamente factores sociales, económicos y biológicos vinculados con rendimiento en educación superior de Juliaca. Es especialmente valioso porque incluye composición del hogar, convivencia, situación laboral y salud, dimensiones próximas a la vulnerabilidad propuesta.
+ER  -
+TY  - THES
+TI  - Uso de Machine Learning para predecir el rendimiento académico con factores socioeconómicos en estudiantes de los primeros semestres en una universidad de los Andes del Perú
+PY  - 2025
+AU  - Calatayud Madariaga, Esther Ruth
+PB  - Universidad Nacional del Altiplano / Universidad Nacional Micaela Bastidas de Apurímac, Perú
+T2  - Doctorado en Estadística e Informática
+UR  - https://repositorio.unap.edu.pe/handle/20.500.14082/25405
+KW  - machine learning
+KW  - rendimiento académico
+KW  - factores socioeconómicos
+KW  - CatBoost
+KW  - predicción
+N2  - Integra de forma directa factores socioeconómicos y predicción del rendimiento en estudiantes universitarios andinos. Compara varios algoritmos y despliega el mejor modelo, constituyéndose en el antecedente peruano más próximo al núcleo predictivo de la tesis.
+ER  -
+TY  - THES
+TI  - El Rendimiento Académico de los Estudiantes de la Universidad Nacional del Santa según los Factores Socioeconómicos determinados mediante una Red Neuronal Supervisada
+PY  - 2024
+AU  - Navarrete Leal, Luzbeth Karin
+PB  - Universidad Nacional del Santa, Perú
+T2  - Tesis doctoral
+UR  - https://hdl.handle.net/20.500.14278/4765
+KW  - rendimiento académico
+KW  - factores socioeconómicos
+KW  - ficha socioeconómica
+KW  - red neuronal
+N2  - Utiliza fichas socioeconómicas institucionales para estimar el rendimiento mediante una red neuronal supervisada. El paralelismo con la tesis es alto porque parte de registros administrativos socioeconómicos y busca inferir un resultado académico posterior.
+ER  -
+TY  - THES
+TI  - Modelo predictivo basado en Machine Learning para el seguimiento académico de los estudiantes de la Universidad Nacional de Moquegua
+PY  - 2024
+AU  - Anahua Flores, Tania Yesenia
+PB  - Universidad Nacional del Altiplano / Universidad Nacional de Moquegua, Perú
+T2  - Maestría en Informática
+UR  - https://repositorio.unap.edu.pe/handle/20.500.14082/25514
+KW  - deserción
+KW  - machine learning
+KW  - seguimiento académico
+KW  - árbol de decisión
+KW  - CRISP-DM
+N2  - Usa registros históricos para predecir deserción y construir un sistema de seguimiento. Incorpora atributos académicos y familiares, compara clasificadores y aplica balanceo de clases.
+ER  -
+TY  - THES
+TI  - Análisis predictivo de la deserción estudiantil en los alumnos de la Universidad Nacional de Moquegua entre 2009 y 2019, usando Machine Learning
+PY  - 2023
+AU  - Quintana Quispe, José Orlando
+PB  - Universidad Nacional del Altiplano / Universidad Nacional de Moquegua, Perú
+T2  - Doctorado en Estadística Aplicada
+UR  - https://repositorio.unap.edu.pe/handle/20.500.14082/19742
+KW  - deserción universitaria
+KW  - machine learning
+KW  - factores familiares
+KW  - vivienda
+KW  - selección de variables
+N2  - Predice deserción utilizando información general, económica, familiar y de vivienda. Es muy alineada con varias dimensiones de la vulnerabilidad socioeconómica propuesta.
+ER  -
+TY  - THES
+TI  - Modelo predictivo basado en Machine Learning como soporte para el seguimiento académico del estudiante universitario
+PY  - 2021
+AU  - Caselli Gismondi, Hugo Esteban
+PB  - Universidad Nacional del Santa, Perú
+T2  - Doctor en Ingeniería de Sistemas e Informática
+UR  - https://hdl.handle.net/20.500.14278/3804
+KW  - machine learning
+KW  - deep learning
+KW  - abandono
+KW  - seguimiento académico
+KW  - redes neuronales
+N2  - Propone un modelo de aprendizaje profundo para seguimiento académico y detección temprana de perfiles de riesgo. Compara redes de 2 a 7 capas y selecciona atributos relevantes.
+ER  -
+TY  - JOUR
+TI  - Predicting undergraduate academic performance in a leading Peruvian university: A machine learning approach
+PY  - 2024
+AU  - Salas, Fabio
+AU  - Caldas, Josué
+JF  - Educación, 33(64), 55-85
+VL  - 33
+IS  - 64
+SP  - 55
+EP  - 85
+DO  - 10.18800/educacion.202401.m003
+UR  - https://www.scielo.org.pe/scielo.php?pid=S1019-94032024000100055&script=sci_arttext
+KW  - academic performance
+KW  - machine learning
+KW  - higher education
+KW  - Peru
+N2  - Construye una base integrada con registros universitarios, admisión, antecedentes escolares, variables demográficas, geográficas y socioeconómicas para predecir desempeño de pregrado.
+ER  -
+TY  - THES
+TI  - Factores socioeconómicos que influyen en el rendimiento académico de los beneficiarios del programa social Beca 18 en SENATI Huaraz-2016
+PY  - 2020
+AU  - Huerta Tamayo, Tirzah Georgina
+PB  - Universidad Nacional Santiago Antúnez de Mayolo, Perú
+T2  - Tesis de maestría
+UR  - http://repositorio.unasam.edu.pe/handle/UNASAM/4344
+KW  - factores socioeconómicos
+KW  - Beca 18
+KW  - rendimiento académico
+KW  - apoyo económico
+N2  - Evalúa beneficiarios de Beca 18 y vincula apoyo económico, alimentación, hospedaje y materiales con rendimiento. Es útil para la dimensión de vulnerabilidad y programas sociales.
+ER  -
+TY  - JOUR
+TI  - Comparison of Predictive Models with Balanced Classes Using the SMOTE Method for the Forecast of Student Dropout in Higher Education
+PY  - 2022
+AU  - Flores, Vaneza
+AU  - Heras, Stella
+AU  - Julian, Vicente
+JF  - Electronics
+VL  - 11
+IS  - 3
+SP  - 457 / 1-16
+DO  - 10.3390/electronics11030457
+UR  - https://www.mdpi.com/2079-9292/11/3/457
+KW  - university student dropout
+KW  - predictive model
+KW  - data mining
+KW  - SMOTE
+N2  - Compara ocho clasificadores para pronosticar deserción utilizando 4,365 registros reales de la Universidad Nacional de Moquegua y equilibra las clases con SMOTE.
+ER  -
+TY  - JOUR
+TI  - Supporting Decision-Making Process on Higher Education Dropout by Analyzing Academic, Socioeconomic, and Equity Factors through Machine Learning and Survival Analysis Methods in the Latin American Context
+PY  - 2023
+AU  - Gutierrez-Pachas, Daniel A.
+AU  - Garcia-Zanabria, Germain
+AU  - Cuadros-Vargas, Ernesto
+AU  - Camara-Chavez, Guillermo
+AU  - Gomez-Nieto, Erick
+JF  - Education Sciences
+VL  - 13
+IS  - 2
+SP  - 154
+DO  - 10.3390/educsci13020154
+UR  - https://www.mdpi.com/2227-7102/13/2/154
+KW  - student dropout prediction
+KW  - machine learning models
+KW  - survival analysis
+KW  - socioeconomic factors
+KW  - equity
+N2  - Analiza deserción como clasificación y como tiempo hasta el abandono usando información académica, demográfica y socioeconómica de seis departamentos durante trece años, incorporando además análisis por grupos y equidad.
+ER  -
+TY  - THES
+TI  - Modelo predictivo de deserción estudiantil mediante machine learning en educación superior tecnológica pública
+PY  - 2024
+AU  - Polo Romero, Víctor Jaime
+PB  - Universidad Nacional del Santa, Perú
+T2  - Tesis doctoral
+UR  - https://hdl.handle.net/20.500.14278/4737
+KW  - deserción
+KW  - machine learning
+KW  - ensemble
+KW  - CRISP-DM
+KW  - educación superior
+N2  - Trabaja con registros de educación superior tecnológica y compara clasificadores individuales con un modelo de votación para predecir abandono.
+ER  -
+TY  - THES
+TI  - From black box to transparent academic support
+PY  - 2024
+AU  - Valente, Daniela
+PB  - Universidade Católica Portuguesa, Portugal
+T2  - Mestrado em Análise de Dados para Gestão
+UR  - https://ciencia.ucp.pt/en/studentTheses/from-black-box-to-transparent-academic-support/
+KW  - machine learning
+KW  - explainability
+KW  - education
+KW  - CatBoost
+KW  - academic support
+N2  - Predice desempeño y abandono con énfasis en explicabilidad usando factores demográficos, socioeconómicos, macroeconómicos y académicos. Construye un modelo al ingreso y otro después del primer año, lo que permite comparar capacidad predictiva temprana frente a información académica acumulada.
+ER  -
+TY  - THES
+TI  - Ethical AI-based Contextual Safeguarding: A Machine Learning Approach for Explainable Predictive Risk Assessment Models in Education
+PY  - 2026
+AU  - Woodruff, Matthew
+PB  - University of Surrey, Reino Unido
+T2  - Doctor of Philosophy
+DO  - 10.15126/thesis.902067
+UR  - https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Ethical-AI-based-Contextual-Safeguarding-A-Machine/991120795102346
+KW  - explainable AI
+KW  - algorithmic fairness
+KW  - predictive risk assessment
+KW  - education
+KW  - contextual safeguarding
+N2  - Desarrolla sistemas de predicción de riesgo estudiantil explicables y analiza su equidad en decisiones educativas de alto impacto. Integra rendimiento predictivo, interpretabilidad, desigualdad estructural, privacidad y agencia estudiantil.
+ER  -
+TY  - JOUR
+TI  - Using machine learning to predict student retention from socio-demographic characteristics and app-based engagement metrics
+PY  - 2023
+AU  - Matz, Sandra C.
+AU  - Bukow, Christina S.
+AU  - Peters, Heinrich
+AU  - Deacons, Christine
+AU  - Dinu, Alice
+AU  - Stachl, Clemens
+JF  - Scientific Reports
+VL  - 13
+SP  - 5705
+DO  - 10.1038/s41598-023-32484-w
+UR  - https://www.nature.com/articles/s41598-023-32484-w
+KW  - student retention
+KW  - socio-demographic characteristics
+KW  - engagement
+KW  - machine learning
+KW  - higher education
+N2  - Predice abandono después del primer semestre combinando variables institucionales sociodemográficas/económicas con trazas de participación y experiencia universitaria en múltiples instituciones.
+ER  -
+TY  - THES
+TI  - Factores socioeconómicos y pedagógicos que inciden en el rendimiento académico de los estudiantes de la Carrera de Farmacia, UCAN-Chinandega, primer trimestre 2017
+PY  - 2018
+AU  - Morales Ferrufino, Donald José
+PB  - Universidad Nacional Autónoma de Nicaragua, Managua
+T2  - Tesis de maestría
+UR  - https://repositorio.unan.edu.ni/id/eprint/9011/
+KW  - factores socioeconómicos
+KW  - factores pedagógicos
+KW  - rendimiento académico
+KW  - Farmacia
+N2  - Integra condiciones socioeconómicas y pedagógicas en estudiantes universitarios de Farmacia, usando información de estudiantes y docentes.
+ER  -
+TY  - JOUR
+TI  - Predicting student dropouts with machine learning: An empirical study in Finnish higher education
+PY  - 2024
+AU  - Vaarma, Matti
+AU  - Li, Hongxiu
+JF  - Technology in Society
+VL  - 76
+SP  - 102474
+DO  - 10.1016/j.techsoc.2024.102474
+UR  - https://www.sciencedirect.com/science/article/pii/S0160791X24000228
+KW  - student dropout
+KW  - machine learning
+KW  - higher education
+KW  - LMS
+KW  - temporal prediction
+N2  - Predice abandono combinando transcript, demografía y actividad Moodle y analiza cómo la importancia de predictores y el rendimiento del modelo cambian mes a mes desde el ingreso.
+ER  -
+TY  - THES
+TI  - Diseño de un modelo de predicción del rendimiento académico de los estudiantes de primer nivel de las carreras de Ingeniería de la ESPOL
+PY  - 2019
+AU  - Barzola Sarmiento, Johanna del Rocío
+PB  - Escuela Superior Politécnica del Litoral, Ecuador
+T2  - Magíster en Estadística con mención en Gestión de la Calidad y Productividad
+UR  - http://www.dspace.espol.edu.ec/handle/123456789/47432
+KW  - análisis multivariado
+KW  - regresión lineal
+KW  - CHAID
+KW  - rendimiento académico
+KW  - factores socioeconómicos
+N2  - Desarrolla un modelo para estudiantes de primer nivel combinando factores socioeconómicos, calificaciones de admisión y asignaturas cursadas. Emplea regresión múltiple y segmentación jerárquica CHAID.
+ER  -
+TY  - JOUR
+TI  - Imbalanced Multi-class Prediction of Student Drop-out and Graduation: A Systematic Literature Review
+PY  - 2026
+AU  - Setiawan, Ridwan
+AU  - Noersasongko, Edi
+AU  - Syukur, Abdul
+AU  - Budiman, Fikri
+AU  - Kurniadi, Dede
+JF  - Journal on Efficiency and Responsibility in Education and Science
+VL  - 19
+IS  - 1
+SP  - 72
+EP  - 90
+DO  - 10.7160/eriesj.2026.190106
+UR  - https://www.eriesjournal.com/index.php/eries/article/view/2158
+KW  - higher education
+KW  - imbalanced classification
+KW  - learning analytics
+KW  - machine learning
+KW  - student dropout
+N2  - Revisión sistemática reciente centrada específicamente en predicción de abandono/graduación bajo desbalance de clases. Sintetiza estrategias de remuestreo, ponderación, ensembles, métricas y validación.
+ER  -
+TY  - THES
+TI  - Fairness-aware machine learning in educational data mining
+PY  - 2024
+AU  - Le Quy, Tai
+PB  - Leibniz University Hannover, Alemania
+T2  - Doctoral thesis
+DO  - 10.15488/15832
+UR  - https://research.uni-hannover.de/en/publications/fairness-aware-machine-learning-in-educational-data-mining/
+KW  - fairness
+KW  - educational data mining
+KW  - student performance prediction
+KW  - protected attributes
+KW  - machine learning
+N2  - Tesis doctoral dedicada específicamente a machine learning sensible a equidad en minería de datos educativa. Considera problemas como predicción de rendimiento y agrupamiento cuando existen atributos protegidos y posibles efectos discriminatorios.
+ER  -
+TY  - CPAPER
+TI  - DoRA: Weight-Decomposed Low-Rank Adaptation
+PY  - 2024
+AU  - Liu, Shih-Yang
+AU  - Wang, Chien-Yi
+AU  - Yin, Hongxu
+AU  - Molchanov, Pavlo
+AU  - Wang, Yu-Chiang Frank
+AU  - Cheng, Kwang-Ting
+AU  - Chen, Min-Hung
+JF  - ICML 2024, PMLR 235
+VL  - 235
+SP  - 32100
+EP  - 32121
+M3  - arXiv:2402.09353
+UR  - https://proceedings.mlr.press/v235/liu24bn.html
+KW  - DoRA
+KW  - PEFT
+KW  - LoRA
+KW  - weight decomposition
+KW  - fine-tuning
+N2  - Trabajo fundador de DoRA. Descompone cada peso preentrenado en magnitud y dirección y aplica una actualización de bajo rango sobre la componente direccional, buscando aproximar mejor el comportamiento del full fine-tuning.
+ER  -
+TY  - CPAPER
+TI  - LoRA: Low-Rank Adaptation of Large Language Models
+PY  - 2022
+AU  - Hu, Edward J.
+AU  - Shen, Yelong
+AU  - Wallis, Phillip
+AU  - Allen-Zhu, Zeyuan
+AU  - Li, Yuanzhi
+AU  - Wang, Shean
+AU  - Wang, Lu
+AU  - Chen, Weizhu
+JF  - ICLR 2022
+M3  - arXiv:2106.09685
+UR  - https://arxiv.org/abs/2106.09685
+KW  - LoRA
+KW  - low-rank adaptation
+KW  - parameter-efficient fine-tuning
+KW  - transformers
+N2  - Trabajo base de LoRA: congela los pesos del modelo preentrenado e introduce matrices entrenables de bajo rango en capas seleccionadas. Esto reduce memoria y parámetros específicos por tarea.
+ER  -
+TY  - CPAPER
+TI  - QLoRA: Efficient Finetuning of Quantized LLMs
+PY  - 2023
+AU  - Dettmers, Tim
+AU  - Pagnoni, Artidoro
+AU  - Holtzman, Ari
+AU  - Zettlemoyer, Luke
+JF  - NeurIPS 2023
+DO  - 10.52202/075280-0441
+M3  - arXiv:2305.14314
+UR  - https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html
+KW  - QLoRA
+KW  - quantization
+KW  - LoRA
+KW  - NF4
+KW  - efficient fine-tuning
+N2  - Combina cuantización a 4 bits con LoRA para reducir drásticamente memoria durante el ajuste fino mientras el modelo base permanece congelado.
+ER  -
+TY  - CPAPER
+TI  - Parameter-Efficient Transfer Learning for NLP
+PY  - 2019
+AU  - Houlsby, Neil
+AU  - Giurgiu, Andrei
+AU  - Jastrzebski, Stanislaw
+AU  - Morrone, Bruna
+AU  - De Laroussilhe, Quentin
+AU  - Gesmundo, Andrea
+AU  - Attariyan, Mona
+AU  - Gelly, Sylvain
+JF  - ICML 2019, PMLR 97
+VL  - 97
+SP  - 2790
+EP  - 2799
+UR  - https://proceedings.mlr.press/v97/houlsby19a.html
+KW  - adapters
+KW  - parameter-efficient transfer learning
+KW  - BERT
+KW  - transfer learning
+N2  - Trabajo fundacional de adaptación eficiente mediante módulos adapter. Mantiene congelado el modelo original y añade un pequeño conjunto de parámetros específicos por tarea.
+ER  -
+TY  - JOUR
+TI  - Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey
+PY  - 2024
+AU  - Han, Zeyu
+AU  - Gao, Chao
+AU  - Liu, Jinyang
+AU  - Zhang, Jeff
+AU  - Zhang, Sai Qian
+JF  - Transactions on Machine Learning Research
+M3  - arXiv:2403.14608
+UR  - https://mlanthology.org/tmlr/2024/han2024tmlr-parameterefficient/
+KW  - PEFT
+KW  - fine-tuning
+KW  - large models
+KW  - computational efficiency
+KW  - survey
+N2  - Revisión comprehensiva de algoritmos PEFT, sus costos, desempeño, aplicaciones y consideraciones de implementación de sistemas.
+ER  -
+TY  - THES
+TI  - The socio-economic and psychological determinants of student academic outcomes in Papua New Guinea
+PY  - 2007
+AU  - Nelson, Genevieve F.
+PB  - Western Sydney University, Australia / Papúa Nueva Guinea
+T2  - Doctor of Philosophy (Psychology)
+UR  - http://handle.uws.edu.au:8081/1959.7/19759
+KW  - socio-economic status
+KW  - parent education
+KW  - achievement
+KW  - motivation
+KW  - self-regulation
+N2  - Construye un modelo intercultural amplio de determinantes socioeconómicos y psicológicos del logro y esfuerzo académico en contextos urbanos, rurales y de aldeas. Integra SES, educación parental, metas, motivación, autoconcepto y autorregulación.
+ER  -
+TY  - CPAPER
+TI  - Transformers Can Do Bayesian Inference
+PY  - 2022
+AU  - Müller, Samuel
+AU  - Hollmann, Noah
+AU  - Pineda Arango, Sebastian
+AU  - Grabocka, Josif
+AU  - Hutter, Frank
+JF  - ICLR 2022
+M3  - arXiv:2112.10510
+UR  - https://mlanthology.org/iclr/2022/muller2022iclr-transformers/
+KW  - Prior-Data Fitted Networks
+KW  - Bayesian inference
+KW  - transformers
+KW  - in-context learning
+N2  - Introduce Prior-Data Fitted Networks (PFN), transformers entrenados sobre tareas muestreadas de una distribución previa para aproximar inferencia bayesiana y resolver nuevas tareas en una sola pasada.
+ER  -
+TY  - CPAPER
+TI  - TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second
+PY  - 2023
+AU  - Hollmann, Noah
+AU  - Müller, Samuel
+AU  - Eggensperger, Katharina
+AU  - Hutter, Frank
+JF  - ICLR 2023
+M3  - arXiv:2207.01848
+UR  - https://arxiv.org/abs/2207.01848
+KW  - TabPFN
+KW  - tabular classification
+KW  - in-context learning
+KW  - PFN
+KW  - AutoML
+N2  - Presenta TabPFN como un transformer preentrenado para clasificación tabular pequeña mediante in-context learning y sin actualización de parámetros para cada nuevo dataset.
+ER  -
+TY  - JOUR
+TI  - Accurate predictions on small data with a tabular foundation model
+PY  - 2025
+AU  - Hollmann, Noah
+AU  - Müller, Samuel
+AU  - Purucker, Lennart
+AU  - Krishnakumar, Arjun
+AU  - Körfer, Max
+AU  - Hoo, Shi Bin
+AU  - Schirrmeister, Robin Tibor
+AU  - Hutter, Frank
+JF  - Nature 637, 319-326
+VL  - 637
+SP  - 319
+EP  - 326
+DO  - 10.1038/s41586-024-08328-6
+UR  - https://www.nature.com/articles/s41586-024-08328-6
+KW  - TabPFN
+KW  - tabular foundation model
+KW  - small data
+KW  - classification
+KW  - regression
+N2  - Versión moderna de TabPFN presentada como foundation model tabular. Amplía escala, tareas y capacidades e incorpora posibilidades de fine-tuning, embeddings, generación y explicación.
+ER  -
+TY  - JOUR
+TI  - TabTransformer: Tabular Data Modeling Using Contextual Embeddings
+PY  - 2020
+AU  - Huang, Xin
+AU  - Khetan, Ashish
+AU  - Cvitkovic, Milan
+AU  - Karnin, Zohar
+JF  - arXiv / deep tabular learning
+M3  - arXiv:2012.06678
+UR  - https://arxiv.org/abs/2012.06678
+KW  - TabTransformer
+KW  - contextual embeddings
+KW  - tabular data
+KW  - self-attention
+N2  - Propone un transformer que contextualiza embeddings de variables categóricas para modelado tabular supervisado y semi-supervisado.
+ER  -
+TY  - CPAPER
+TI  - Why do tree-based models still outperform deep learning on typical tabular data?
+PY  - 2022
+AU  - Grinsztajn, Léo
+AU  - Oyallon, Edouard
+AU  - Varoquaux, Gaël
+JF  - NeurIPS 2022
+DO  - 10.52202/068431-0037
+M3  - arXiv:2207.08815
+UR  - https://proceedings.neurips.cc/paper_files/paper/2022/hash/0378c7692da36807bdec87ab043cdadc-Abstract-Datasets_and_Benchmarks.html
+KW  - tabular data
+KW  - gradient boosting
+KW  - deep learning
+KW  - inductive bias
+KW  - benchmark
+N2  - Benchmark sistemático que investiga por qué modelos basados en árboles suelen superar redes profundas en datos tabulares medianos.
+ER  -
+TY  - CPAPER
+TI  - When Do Neural Nets Outperform Boosted Trees on Tabular Data?
+PY  - 2023
+AU  - McElfresh, Duncan
+AU  - Khandagale, Sujay
+AU  - Valverde, Jonathan
+AU  - Prasad, Vishak C.
+AU  - Ramakrishnan, Ganesh
+AU  - Goldblum, Micah
+AU  - White, Colin
+JF  - NeurIPS 2023
+DO  - 10.52202/075280-3337
+M3  - arXiv:2305.02997
+UR  - https://proceedings.neurips.cc/paper_files/paper/2023/hash/f06d5ebd4ff40b40dd97e30cee632123-Abstract.html
+KW  - tabular data
+KW  - neural networks
+KW  - GBDT
+KW  - TabPFN
+KW  - TabZilla
+N2  - Compara 19 algoritmos en 176 datasets y analiza metacaracterísticas para entender cuándo redes o GBDT son más adecuados. El estudio destaca a TabPFN como excepción fuerte en conjuntos pequeños.
+ER  -
+TY  - CPAPER
+TI  - XGBoost: A Scalable Tree Boosting System
+PY  - 2016
+AU  - Chen, Tianqi
+AU  - Guestrin, Carlos
+JF  - KDD 2016
+SP  - 785
+EP  - 794
+DO  - 10.1145/2939672.2939785
+UR  - https://doi.org/10.1145/2939672.2939785
+KW  - XGBoost
+KW  - gradient boosting
+KW  - scalable machine learning
+KW  - trees
+N2  - Presenta XGBoost, sistema de tree boosting regularizado y altamente optimizado que se convirtió en benchmark estándar para clasificación y regresión tabular.
+ER  -
+TY  - CPAPER
+TI  - LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+PY  - 2017
+AU  - Ke, Guolin
+AU  - Meng, Qi
+AU  - Finley, Thomas
+AU  - Wang, Taifeng
+AU  - Chen, Wei
+AU  - Ma, Weidong
+AU  - Ye, Qiwei
+AU  - Liu, Tie-Yan
+JF  - NeurIPS 2017
+UR  - https://www.microsoft.com/en-us/research/publication/lightgbm-a-highly-efficient-gradient-boosting-decision-tree/
+KW  - LightGBM
+KW  - GBDT
+KW  - GOSS
+KW  - EFB
+KW  - gradient boosting
+N2  - Introduce Gradient-based One-Side Sampling y Exclusive Feature Bundling para acelerar GBDT reduciendo observaciones utilizadas en estimación y agrupando características.
+ER  -
+TY  - CPAPER
+TI  - CatBoost: unbiased boosting with categorical features
+PY  - 2018
+AU  - Prokhorenkova, Liudmila
+AU  - Gusev, Gleb
+AU  - Vorobev, Aleksandr
+AU  - Dorogush, Anna Veronika
+AU  - Gulin, Andrey
+JF  - NeurIPS 2018
+UR  - https://proceedings.neurips.cc/paper/2018/hash/14491b756b3a51daac41c24863285549-Abstract.html
+KW  - CatBoost
+KW  - categorical features
+KW  - ordered boosting
+KW  - gradient boosting
+N2  - Presenta CatBoost, con ordered boosting y tratamiento específico de variables categóricas para combatir prediction shift y target leakage.
+ER  -
+TY  - CPAPER
+TI  - A Unified Approach to Interpreting Model Predictions
+PY  - 2017
+AU  - Lundberg, Scott M.
+AU  - Lee, Su-In
+JF  - NeurIPS 2017
+VL  - 30
+SP  - 4765
+EP  - 4774
+M3  - arXiv:1705.07874
+UR  - https://papers.nips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html
+KW  - SHAP
+KW  - Shapley values
+KW  - explainable AI
+KW  - feature attribution
+N2  - Introduce SHAP como marco unificado de explicaciones aditivas que asigna a cada variable una contribución a una predicción individual y conecta métodos previos bajo propiedades teóricas comunes.
+ER  -
+TY  - JOUR
+TI  - Fairness for machine learning software in education: A systematic mapping study
+PY  - 2025
+AU  - Pham, Nga
+AU  - Hung, Pham Ngoc
+AU  - Nguyen-Duc, Anh
+JF  - Journal of Systems and Software, 219, 112244
+VL  - 219
+SP  - 112244
+DO  - 10.1016/j.jss.2024.112244
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224002887
+KW  - fairness
+KW  - bias
+KW  - AI
+KW  - demographic parity
+KW  - equalized odds
+KW  - education
+N2  - Mapeo sistemático de investigación en fairness de ML educativo entre 2002 y 2023. Clasifica algoritmos, atributos sensibles, definiciones de justicia y brechas futuras.
+ER  -
+TY  - JOUR
+TI  - Predicting social assistance beneficiaries: On the social welfare damage of data biases
+PY  - 2024
+AU  - Dietrich, Stephan
+AU  - Malerba, Daniele
+AU  - Gassmann, Franziska
+JF  - Data & Policy, 6, e3
+VL  - 6
+SP  - e3
+DO  - 10.1017/dap.2023.38
+UR  - https://www.cambridge.org/core/journals/data-and-policy/article/predicting-social-assistance-beneficiaries-on-the-social-welfare-damage-of-data-biases/EE62DC0645275778D744ACAA3E3254BE
+KW  - cash transfers
+KW  - fair machine learning
+KW  - proxy means test
+KW  - social protection
+KW  - targeting
+N2  - Analiza cómo sesgos de datos en modelos de focalización de programas sociales pueden ocultar pérdidas de bienestar y perjudicar de forma desigual a determinados hogares.
+ER  -
+TY  - JOUR
+TI  - Beyond Performance: Explaining and Ensuring Fairness in Student Academic Performance Prediction with Machine Learning
+PY  - 2025
+AU  - Kesgin, Kadir
+AU  - Kiraz, Salih
+AU  - Kosunalp, Selahattin
+AU  - Stoycheva, Bozhana
+JF  - Applied Sciences, 15(15), 8409
+VL  - 15
+IS  - 15
+SP  - 8409
+DO  - 10.3390/app15158409
+UR  - https://www.mdpi.com/2076-3417/15/15/8409
+KW  - student performance prediction
+KW  - XAI
+KW  - SHAP
+KW  - fairness
+KW  - SMOTE
+KW  - educational data mining
+N2  - Integra predicción, balanceo, XAI y fairness en un mismo pipeline para rendimiento estudiantil y analiza sesgo respecto de variables sensibles, incluidas algunas socioeconómicas.
+ER  -
+TY  - JOUR
+TI  - Evaluating ensemble models for fair and interpretable prediction in higher education using multimodal data
+PY  - 2025
+AU  - Arévalo-Cordovilla, Felipe Emiliano
+AU  - Peña, Marta
+JF  - Scientific Reports, 15, 29420
+VL  - 15
+SP  - 29420
+DO  - 10.1038/s41598-025-15388-9
+UR  - https://www.nature.com/articles/s41598-025-15388-9
+KW  - academic performance
+KW  - early prediction
+KW  - gradient boosting
+KW  - learning analytics
+KW  - stacking
+KW  - fairness
+N2  - Integra actividad Moodle, historia académica y datos demográficos para predicción temprana en educación superior. Compara modelos base y stacking, interpreta con SHAP y evalúa fairness.
+ER  -
+TY  - JOUR
+TI  - SMOTE: Synthetic Minority Over-sampling Technique
+PY  - 2002
+AU  - Chawla, Nitesh V.
+AU  - Bowyer, Kevin W.
+AU  - Hall, Lawrence O.
+AU  - Kegelmeyer, W. Philip
+JF  - Journal of Artificial Intelligence Research
+VL  - 16
+SP  - 321
+EP  - 357
+DO  - 10.1613/jair.953
+UR  - https://doi.org/10.1613/jair.953
+KW  - SMOTE
+KW  - imbalanced data
+KW  - synthetic oversampling
+KW  - classification
+N2  - Trabajo original de SMOTE, técnica que genera instancias sintéticas de la clase minoritaria y puede combinarse con submuestreo de la clase mayoritaria.
+ER  -
+TY  - JOUR
+TI  - Statistical Comparisons of Classifiers over Multiple Data Sets
+PY  - 2006
+AU  - Demšar, Janez
+JF  - Journal of Machine Learning Research
+VL  - 7
+IS  - 1
+SP  - 1
+EP  - 30
+UR  - https://www.jmlr.org/papers/v7/demsar06a.html
+KW  - classifier comparison
+KW  - Friedman test
+KW  - Wilcoxon
+KW  - post-hoc tests
+KW  - critical difference
+N2  - Trabajo canónico sobre comparación estadística de algoritmos. Recomienda pruebas no paramétricas robustas y discute Friedman con contrastes posteriores para comparar múltiples clasificadores.
+ER  -
+TY  - JOUR
+TI  - Silhouettes: A graphical aid to the interpretation and validation of cluster analysis
+PY  - 1987
+AU  - Rousseeuw, Peter J.
+JF  - Journal of Computational and Applied Mathematics
+VL  - 20
+SP  - 53
+EP  - 65
+DO  - 10.1016/0377-0427(87)90125-7
+UR  - https://doi.org/10.1016/0377-0427(87)90125-7
+KW  - silhouette
+KW  - cluster analysis
+KW  - clustering validity
+KW  - classification
+N2  - Introduce la silueta como medida y representación gráfica de cohesión y separación de clústeres; la silueta promedio permite evaluar la validez y seleccionar un número apropiado de grupos.
+ER  -
+TY  - JOUR
+TI  - A dendrite method for cluster analysis
+PY  - 1974
+AU  - Caliński, Tadeusz
+AU  - Harabasz, Jerzy
+JF  - Communications in Statistics
+VL  - 3
+IS  - 1
+SP  - 1
+EP  - 27
+DO  - 10.1080/03610927408827101
+UR  - https://doi.org/10.1080/03610927408827101
+KW  - cluster analysis
+KW  - variance ratio criterion
+KW  - optimal number of clusters
+KW  - dendrite
+N2  - Describe un método de agrupamiento y propone un criterio de razón de varianzas para obtener información sobre el número apropiado de grupos; el criterio dio origen al índice Calinski-Harabasz.
+ER  -
+TY  - CPAPER
+TI  - On Calibration of Modern Neural Networks
+PY  - 2017
+AU  - Guo, Chuan
+AU  - Pleiss, Geoff
+AU  - Sun, Yu
+AU  - Weinberger, Kilian Q.
+JF  - Proceedings of the 34th International Conference on Machine Learning, PMLR
+IS  - 1321-1330
+SP  - arXiv:1706.04599
+DO  - https://proceedings.mlr.press/v70/guo17a
+UR  - https://proceedings.mlr.press/v70/guo17a/guo17a.pdf
+KW  - calibration
+KW  - expected calibration error
+KW  - temperature scaling
+KW  - neural networks
+N2  - Trabajo de referencia sobre calibración de probabilidades en redes modernas. Muestra que modelos con alta accuracy pueden estar mal calibrados y evalúa métodos post-hoc, destacando temperature scaling.
+ER  -
+TY  - JOUR
+TI  - From local explanations to global understanding with explainable AI for trees
+PY  - 2020
+AU  - Lundberg, Scott M.
+AU  - Erion, Gabriel
+AU  - Chen, Hugh
+AU  - DeGrave, Alex
+AU  - Prutkin, Jordan M.
+AU  - Nair, Bala
+AU  - Katz, Ronit
+AU  - Himmelfarb, Jonathan
+AU  - Bansal, Nisha
+AU  - Lee, Su-In
+JF  - Nature Machine Intelligence
+VL  - 1
+IS  - 56-67
+DO  - https://doi.org/10.1038/s42256-019-0138-9
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC7326367/
+KW  - TreeSHAP
+KW  - explainable AI
+KW  - feature attribution
+KW  - tree models
+KW  - global interpretation
+N2  - Extiende SHAP para modelos basados en árboles y muestra cómo explicaciones locales pueden agregarse para obtener comprensión global, patrones de interacción y análisis de cohortes.
+ER  -
+TY  - JOUR
+TI  - A Survey on Bias and Fairness in Machine Learning
+PY  - 2021
+AU  - Mehrabi, Ninareh
+AU  - Morstatter, Fred
+AU  - Saxena, Nripsuta
+AU  - Lerman, Kristina
+AU  - Galstyan, Aram
+JF  - ACM Computing Surveys
+VL  - 6
+IS  - Article 115, 1-35
+DO  - https://doi.org/10.1145/3457607
+UR  - https://doi.org/10.1145/3457607
+KW  - fairness
+KW  - bias
+KW  - machine learning
+KW  - protected attributes
+KW  - mitigation
+N2  - Revisión amplia de fuentes de sesgo, definiciones de fairness, métricas y estrategias de mitigación en machine learning.
+ER  -
+TY  - JOUR
+TI  - Debiasing Education Algorithms
+PY  - 2024
+AU  - Idowu, Jamiu Adekunle
+JF  - International Journal of Artificial Intelligence in Education, 34, 1510-1540
+VL  - 34
+SP  - 1510
+EP  - 1540
+DO  - 10.1007/s40593-023-00389-4
+UR  - https://link.springer.com/article/10.1007/s40593-023-00389-4
+KW  - debiasing education algorithms
+KW  - fairness metrics
+KW  - algorithmic fairness
+KW  - systematic review
+N2  - Revisión sistemática sobre fairness en algoritmos educativos. Incluye predicción de abandono/rendimiento, clasificación y recomendadores y analiza estrategias de mitigación, atributos sensibles y métricas.
+ER  -
+TY  - JOUR
+TI  - A Cluster Separation Measure
+PY  - 1979
+AU  - Davies, David L.
+AU  - Bouldin, Donald W.
+JF  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+VL  - PAMI-1
+IS  - 2
+SP  - 224
+EP  - 227
+DO  - 10.1109/TPAMI.1979.4766909
+UR  - https://doi.org/10.1109/TPAMI.1979.4766909
+KW  - cluster separation
+KW  - cluster validity
+KW  - Davies-Bouldin index
+N2  - Propone una medida de similitud/separación entre clústeres independiente del número de grupos y del algoritmo de partición, base del índice Davies-Bouldin.
+ER  -
