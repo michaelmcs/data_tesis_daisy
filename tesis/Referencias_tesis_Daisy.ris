@@ -136,7 +136,7 @@ TI  - Predicting undergraduate academic performance in a leading Peruvian univer
 PY  - 2024
 AU  - Salas, Fabio
 AU  - Caldas, Josué
-JF  - Educación, 33(64), 55-85
+JF  - Educación
 VL  - 33
 IS  - 64
 SP  - 55
@@ -506,7 +506,7 @@ AU  - Körfer, Max
 AU  - Hoo, Shi Bin
 AU  - Schirrmeister, Robin Tibor
 AU  - Hutter, Frank
-JF  - Nature 637, 319-326
+JF  - Nature
 VL  - 637
 SP  - 319
 EP  - 326
@@ -648,7 +648,7 @@ PY  - 2025
 AU  - Pham, Nga
 AU  - Hung, Pham Ngoc
 AU  - Nguyen-Duc, Anh
-JF  - Journal of Systems and Software, 219, 112244
+JF  - Journal of Systems and Software
 VL  - 219
 SP  - 112244
 DO  - 10.1016/j.jss.2024.112244
@@ -667,7 +667,7 @@ PY  - 2024
 AU  - Dietrich, Stephan
 AU  - Malerba, Daniele
 AU  - Gassmann, Franziska
-JF  - Data & Policy, 6, e3
+JF  - Data & Policy
 VL  - 6
 SP  - e3
 DO  - 10.1017/dap.2023.38
@@ -686,7 +686,7 @@ AU  - Kesgin, Kadir
 AU  - Kiraz, Salih
 AU  - Kosunalp, Selahattin
 AU  - Stoycheva, Bozhana
-JF  - Applied Sciences, 15(15), 8409
+JF  - Applied Sciences
 VL  - 15
 IS  - 15
 SP  - 8409
@@ -705,7 +705,7 @@ TI  - Evaluating ensemble models for fair and interpretable prediction in higher
 PY  - 2025
 AU  - Arévalo-Cordovilla, Felipe Emiliano
 AU  - Peña, Marta
-JF  - Scientific Reports, 15, 29420
+JF  - Scientific Reports
 VL  - 15
 SP  - 29420
 DO  - 10.1038/s41598-025-15388-9
@@ -855,7 +855,7 @@ TY  - JOUR
 TI  - Debiasing Education Algorithms
 PY  - 2024
 AU  - Idowu, Jamiu Adekunle
-JF  - International Journal of Artificial Intelligence in Education, 34, 1510-1540
+JF  - International Journal of Artificial Intelligence in Education
 VL  - 34
 SP  - 1510
 EP  - 1540
@@ -883,4 +883,47 @@ KW  - cluster separation
 KW  - cluster validity
 KW  - Davies-Bouldin index
 N2  - Propone una medida de similitud/separación entre clústeres independiente del número de grupos y del algoritmo de partición, base del índice Davies-Bouldin.
+ER  -
+TY  - THES
+TI  - Factores socioeconómicos de la familia y su influencia en el rendimiento académico de los estudiantes de Enfermería Técnica en los institutos superiores tecnológicos privados de Juliaca - 2014
+PY  - 2017
+AU  - Huanca Apaza, E.
+PB  - Universidad Andina Néstor Cáceres Velásquez, Perú
+T2  - Tesis de maestría
+ER  -
+TY  - THES
+TI  - Factores socioeconómicos y rendimiento académico de estudiantes de la escuela de Contabilidad - USP - Huaraz - 2018
+PY  - 2020
+AU  - Quito Rojas, R. E.
+PB  - Universidad San Pedro, Perú
+T2  - Tesis de maestría
+ER  -
+TY  - JOUR
+TI  - Data mining to identify university student dropout factors
+PY  - 2025
+AU  - Reina Marín, Y.
+AU  - Quiñones Huatangari, L.
+AU  - Cruz Caro, O.
+AU  - Maicelo Guevara, J. L.
+AU  - Alva Tuesta, J. N.
+AU  - Sánchez Bardales, E.
+AU  - Chávez Santos, R.
+JF  - Applied Sciences
+VL  - 15
+IS  - 22
+SP  - 11911
+DO  - 10.3390/app152211911
+UR  - https://doi.org/10.3390/app152211911
+ER  -
+TY  - JOUR
+TI  - Predicción del rendimiento académico estudiantil usando algoritmos de aprendizaje supervisado en una universidad de la selva peruana
+PY  - 2024
+AU  - Vargas-Quispe, A. A.
+AU  - Prieto-Luna, J. C.
+JF  - Revista Amazonía Digital
+VL  - 3
+IS  - 1
+SP  - e292
+DO  - 10.55873/rad.v3i1.292
+UR  - https://doi.org/10.55873/rad.v3i1.292
 ER  -
